@@ -1,16 +1,51 @@
-# kids_learning_app
+# 🧒 Kids Learning App
 
-A new Flutter project.
+A colorful and interactive Flutter application designed to help young children learn the alphabet, numbers, shapes, animals, fruits, and more in a fun and engaging way.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🎵 **Kids Songs** — Play offline videos with fun and educational songs.
+- 🔤 **Alphabet Learning** — Tap on letters A-Z to hear and see "A is for Apple", "B is for Ball", etc.
+- 🔢 **Numbers, Colors, Shapes** — Easy-to-use sections to teach numbers, basic shapes, and colors.
+- 🐶 **Animals & Fruits** — Introduces animals and fruits with names and images.
+- 👤 **Profile & Parent Lock** — Secure settings for adults, and a simple profile section for children.
+- 🎨 **Dark Mode + Sound Toggle** — Child-safe interface with simple toggles.
+- 🌐 **Language Support for-learners** — English and Afaan Oromoo.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- A device or emulator
+
+
+###📂 Directory Structure
+css
+Copy
+Edit
+lib/
+ ┣ main.dart
+ ┣ screens/
+ ┣ widgets/
+ ┣ models/
+ ┗ utils/
+
+
+ ### Run Locally
+
+ 
+```bash
+git clone https://github.com/jiregnaworku/kids_learning_app.git
+cd kids_learning_app
+flutter pub get
+flutter run
+
+
+✍️ Author
+Jiregna Worku – [GitHub](https://github.com/jiregnaworku)

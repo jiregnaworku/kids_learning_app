@@ -29,7 +29,7 @@ class WelcomeScreen extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               const Text(
-                "jiro's App", // You can change this to your app name
+                "Welcome kido...",
                 style: TextStyle(
                   fontSize: 18,
                   color: Colors.white70,

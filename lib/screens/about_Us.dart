@@ -34,7 +34,7 @@ class AboutUsScreen extends StatelessWidget {
                   mainAxisSize: MainAxisSize.min,
                   children: [
                     const CircleAvatar(
-                      backgroundImage: AssetImage('assets/images/icon.png'),
+                      backgroundImage: AssetImage('assets/images/jiro.jpg'),
                       radius: 40,
                     ),
                     const SizedBox(height: 20),
@@ -48,7 +48,7 @@ class AboutUsScreen extends StatelessWidget {
                     ),
                     const SizedBox(height: 20),
                     SizedBox(
-                      height: 400, // Adjust as needed
+                      height: 500, // Adjust as needed
                       child: SingleChildScrollView(
                         child: Text(
                           "About the Developer\n\n"
